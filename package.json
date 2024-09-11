@@ -1,0 +1,22 @@
+{
+  "name": "painauchocolat",
+  "version": "0.0.1",
+  "description": "Bot discord qui corrige les sudistes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clezred/PainAuChocolat.git"
+  },
+  "author": "clezred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clezred/PainAuChocolat/issues"
+  },
+  "homepage": "https://github.com/clezred/PainAuChocolat#readme",
+  "dependencies": {
+    "discord.js": "^14.16.1"
+  }
+}
